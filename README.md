@@ -16,7 +16,7 @@ The Real-time Equity and Balance Monitoring Dashboard is a web application built
 ### Process:
 
 * Data collection: Data was collected from the MetaTrader 5 trading platform and stored in MongoDB using Python.
-* Server-side development: Pymongo was used to connect and send data to MongoDb. Two function were created to get account details and insert "equity" and "balance" data to MongoDb
+* Server-side development: Pymongo was used to connect and send data to MongoDb. Two functions were created to get account details and insert "equity" and "balance" data to MongoDb
 * Client-side development: A ReactJS application was built to fetch the data via "dashboard.js" and display it in a chart using Chart.js component react-chartjs-2.
 
 ### Limitations:
