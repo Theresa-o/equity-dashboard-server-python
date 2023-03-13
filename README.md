@@ -5,13 +5,13 @@ Real-time Equity and Balance Monitoring Dashboard for 3 Trading Accounts
 
 
 ### Introduction:
-The Real-time Equity and Balance Monitoring Dashboard is a web application built using ReactJS and Django, which allows users to monitor the equity and balance for 3 trading accounts in real-time. The application fetches historical data from MongoDB using Axios, displays the data using Chart.js, and updates the chart every minute.
+The Real-time Equity and Balance Monitoring Dashboard is a web application built using ReactJS and Python, which allows users to monitor the equity and balance for 3 trading accounts in real-time. The application fetches historical data from MongoDB using Axios, displays the data using Chart.js, and updates the chart every minute.
 
 ### Technical Architecture
 
 * Frontend: ReactJS with Chart.js
 * Backend: Python with MongoDB
-* * * Programming tools: VS Code and Jupyter Notebook
+* Programming tools: VS Code and Jupyter Notebook
 
 ### Process:
 
