@@ -37,4 +37,5 @@ The Real-time Equity and Balance Monitoring Dashboard provides a simple and intu
 ### Redirects
 
 To view the React Server End - https://github.com/Theresa-o/equity-dashboard-server
+
 To view the React Client End - https://github.com/Theresa-o/equity-dashboard-client
